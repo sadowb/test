@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main ()
 { 
-    printf("this is my first test with github it is so much fun\n");
-    printf("hello world\n");
+    printf("this is my second test i have so much fun\n");
+    printf("let go to sleep\n");
     return 0;
     
 
