@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main ()
-{ printf("this is the second test for git and the second file");
+{
+printf("this is the third test and 4th on github");
 return 0;
 }
    
